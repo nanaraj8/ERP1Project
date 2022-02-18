@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-17T08:19:04Z" name="Default suite" finished-at="2022-02-17T08:19:43Z" duration-ms="39202">
+    <groups>
+    </groups>
+    <test started-at="2022-02-17T08:19:04Z" name="Default test" finished-at="2022-02-17T08:19:43Z" duration-ms="39202">
+      <class name="TestNG.TestNGScript4">
+        <test-method is-config="true" signature="OpenERPApp()[pri:0, instance:TestNG.TestNGScript4@548ad73b]" started-at="2022-02-17T13:49:04Z" name="OpenERPApp" finished-at="2022-02-17T13:49:24Z" duration-ms="20444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenERPApp -->
+        <test-method signature="TC17_Verify_admin_user_is_able_to_create_the_search_filter()[pri:0, instance:TestNG.TestNGScript4@548ad73b]" started-at="2022-02-17T13:49:24Z" name="TC17_Verify_admin_user_is_able_to_create_the_search_filter" finished-at="2022-02-17T13:49:43Z" duration-ms="18680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC17_Verify_admin_user_is_able_to_create_the_search_filter -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNG.TestNGScript4@548ad73b]" started-at="2022-02-17T13:49:43Z" name="closeBrowser" finished-at="2022-02-17T13:49:43Z" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNG.TestNGScript4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
